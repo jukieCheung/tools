@@ -2,6 +2,10 @@ import bpy
 import os
 import traceback
 
+#blender 3.0.0 version
+
+
+
 # ---------------------------
 # 1. 设置 PLY 文件路径（请修改）
 # ---------------------------
