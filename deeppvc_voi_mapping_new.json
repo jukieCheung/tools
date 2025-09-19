@@ -1,0 +1,212 @@
+{
+  "lh_frontal_cortex": [
+    "ctx-lh-caudalmiddlefrontal",
+    "ctx-lh-lateralorbitofrontal",
+    "ctx-lh-medialorbitofrontal",
+    "ctx-lh-parsopercularis",
+    "ctx-lh-parsorbitalis",
+    "ctx-lh-parstriangularis",
+    "ctx-lh-rostralmiddlefrontal",
+    "ctx-lh-superiorfrontal",
+    "ctx-lh-frontalpole"
+  ],
+  "rh_frontal_cortex": [
+    "ctx-rh-caudalmiddlefrontal",
+    "ctx-rh-lateralorbitofrontal",
+    "ctx-rh-medialorbitofrontal",
+    "ctx-rh-parsopercularis",
+    "ctx-rh-parsorbitalis",
+    "ctx-rh-parstriangularis",
+    "ctx-rh-rostralmiddlefrontal",
+    "ctx-rh-superiorfrontal",
+    "ctx-rh-frontalpole"
+  ],
+  "lh_parietal_cortex": [
+    "ctx-lh-inferiorparietal",
+    "ctx-lh-superiorparietal",
+    "ctx-lh-supramarginal"
+  ],
+  "rh_parietal_cortex": [
+    "ctx-rh-inferiorparietal",
+    "ctx-rh-superiorparietal",
+    "ctx-rh-supramarginal"
+  ],
+  "lh_precuneus": [
+    "ctx-lh-precuneus"
+  ],
+  "rh_precuneus": [
+    "ctx-rh-precuneus"
+  ],
+  "lh_occipital_cortex": [
+    "ctx-lh-cuneus",
+    "ctx-lh-lateraloccipital",
+    "ctx-lh-lingual",
+    "ctx-lh-pericalcarine"
+  ],
+  "rh_occipital_cortex": [
+    "ctx-rh-cuneus",
+    "ctx-rh-lateraloccipital",
+    "ctx-rh-lingual",
+    "ctx-rh-pericalcarine"
+  ],
+  "lh_lateral_temporal_cortex": [
+    "ctx-lh-bankssts",
+    "ctx-lh-inferiortemporal",
+    "ctx-lh-middletemporal",
+    "ctx-lh-superiortemporal",
+    "ctx-lh-temporalpole",
+    "ctx-lh-transversetemporal"
+  ],
+  "rh_lateral_temporal_cortex": [
+    "ctx-rh-bankssts",
+    "ctx-rh-inferiortemporal",
+    "ctx-rh-middletemporal",
+    "ctx-rh-superiortemporal",
+    "ctx-rh-temporalpole",
+    "ctx-rh-transversetemporal"
+  ],
+  "lh_medial_temporal_cortex": [
+    "ctx-lh-entorhinal",
+    "ctx-lh-fusiform",
+    "ctx-lh-parahippocampal"
+  ],
+  "rh_medial_temporal_cortex": [
+    "ctx-rh-entorhinal",
+    "ctx-rh-fusiform",
+    "ctx-rh-parahippocampal"
+  ],
+  "lh_anterior_cingulate_cortex": [
+    "ctx-lh-caudalanteriorcingulate",
+    "ctx-lh-rostralanteriorcingulate"
+  ],
+  "rh_anterior_cingulate_cortex": [
+    "ctx-rh-caudalanteriorcingulate",
+    "ctx-rh-rostralanteriorcingulate"
+  ],
+  "lh_posterior_cingulate_cortex": [
+    "ctx-lh-isthmuscingulate",
+    "ctx-lh-posteriorcingulate"
+  ],
+  "rh_posterior_cingulate_cortex": [
+    "ctx-rh-isthmuscingulate",
+    "ctx-rh-posteriorcingulate"
+  ],
+  "lh_sensory_motor_cortex": [
+    "ctx-lh-paracentral",
+    "ctx-lh-postcentral",
+    "ctx-lh-precentral"
+  ],
+  "rh_sensory_motor_cortex": [
+    "ctx-rh-paracentral",
+    "ctx-rh-postcentral",
+    "ctx-rh-precentral"
+  ],
+  "lh_insula": [
+    "ctx-lh-insula"
+  ],
+  "rh_insula": [
+    "ctx-rh-insula"
+  ],
+  "lh_hippocampus": [
+    "Left-Hippocampus"
+  ],
+  "rh_hippocampus": [
+    "Right-Hippocampus"
+  ],
+  "lh_amygdala": [
+    "Left-Amygdala"
+  ],
+  "rh_amygdala": [
+    "Right-Amygdala"
+  ],
+  "lh_caudate": [
+    "Left-Caudate"
+  ],
+  "rh_caudate": [
+    "Right-Caudate"
+  ],
+  "lh_putamen": [
+    "Left-Putamen"
+  ],
+  "rh_putamen": [
+    "Right-Putamen"
+  ],
+  "lh_pallidum": [
+    "Left-Pallidum"
+  ],
+  "rh_pallidum": [
+    "Right-Pallidum"
+  ],
+  "lh_accumbens_area": [
+    "Left-Accumbens-area"
+  ],
+  "rh_accumbens_area": [
+    "Right-Accumbens-area"
+  ],
+  "lh_thalamus": [
+    "Left-Thalamus-unused",
+    "Left-Thalamus",
+    "Left-VentralDC"
+  ],
+  "rh_thalamus": [
+    "Right-Thalamus-unused",
+    "Right-Thalamus",
+    "Right-VentralDC"
+  ],
+  "lh_cerebellar_gray_matter": [
+    "Left-Cerebellum-Cortex"
+  ],
+  "rh_cerebellar_gray_matter": [
+    "Right-Cerebellum-Cortex"
+  ],
+  "lh_cerebellar_white_matter": [
+    "Left-Cerebellum-White-Matter"
+  ],
+  "rh_cerebellar_white_matter": [
+    "Right-Cerebellum-White-Matter"
+  ],
+  "lh_subcortical_white_matter": [
+    "Left-Cerebral-White-Matter",
+    "Left-WM-hypointensities",
+    "CC_Posterior",
+    "CC_Mid_Posterior",
+    "CC_Central",
+    "CC_Mid_Anterior",
+    "CC_Anterior"
+  ],
+  "rh_subcortical_white_matter": [
+    "Right-Cerebral-White-Matter",
+    "Right-WM-hypointensities",
+    "CC_Posterior",
+    "CC_Mid_Posterior",
+    "CC_Central",
+    "CC_Mid_Anterior",
+    "CC_Anterior"
+  ],
+  "lh_brainstem": [
+    "Brain-Stem"
+  ],
+  "rh_brainstem": [
+    "Brain-Stem"
+  ],
+  "lh_cerebrospinal_fluid": [
+    "Left-Lateral-Ventricle",
+    "Left-Inf-Lat-Vent",
+    "Left-vessel",
+    "Left-choroid-plexus",
+    "3rd-Ventricle",
+    "4th-Ventricle",
+    "CSF",
+    "5th-Ventricle"
+  ],
+  "rh_cerebrospinal_fluid": [
+    "Right-Lateral-Ventricle",
+    "Right-Inf-Lat-Vent",
+    "Right-vessel",
+    "Right-choroid-plexus",
+    "3rd-Ventricle",
+    "4th-Ventricle",
+    "CSF",
+    "5th-Ventricle"
+  ]
+}
